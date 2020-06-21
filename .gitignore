@@ -1,0 +1,9 @@
+*.ipynb_checkpoints
+*.json
+*.history
+*.out
+*.log
+*.fls
+*.fdb_latexmk
+*.aux
+*.gz
